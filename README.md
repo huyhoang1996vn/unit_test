@@ -10,3 +10,4 @@ flask run
 
 pytest test.py
 
+https://circleci.com/blog/testing-flask-framework-with-pytest/
